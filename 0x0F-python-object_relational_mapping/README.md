@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 0x0F-python-object_relational_mapping
 =======
+=======
+>>>>>>> 004f163dfac00cc2046b7cd8f968c6a0c59ec112
 # Object-relational mapping
 Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about how to connect to a MySQL database from a Python script, what ORM means and how to map a Python Class to a MySQL table.
 
@@ -1068,4 +1071,7 @@ guillaume@ubuntu:~/0x0F$
 ## Author
 
 Elijah Lawal Ismaila
+<<<<<<< HEAD
 >>>>>>> 70042385b1ba66cc9e27ce146583b9d5393f2fc6
+=======
+>>>>>>> 004f163dfac00cc2046b7cd8f968c6a0c59ec112
